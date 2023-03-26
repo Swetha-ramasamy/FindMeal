@@ -1,6 +1,6 @@
 # FindMeal
 
-## FindMeal is used to find the meals and it's recepie based on the input given , the input can be a main ingredient of the dish or food category. 
+## FindMeal is used to find the meals and it's recipe based on the input given , the input can be a main ingredient of the dish or food category. 
 
 <ul>
 <li>This website fetches the result with help of MealDB API</li>
